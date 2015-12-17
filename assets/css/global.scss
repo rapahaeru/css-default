@@ -1,0 +1,16 @@
+/* VENDOR - Default fall-backs and external files.
+========================================================================== */
+
+@import 'vendor/reset.css';
+
+
+/* COMPONENTS - Base Variable file along with starting point Mixins and Placeholders.
+========================================================================== */
+
+@import 'components/_variables.scss';
+@import 'components/fonts.css';
+
+/* PRINCIPAL
+========================================================================== */
+
+@import 'style.scss'; 

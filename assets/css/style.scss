@@ -1,0 +1,9 @@
+a {
+	color:$link-color; 
+	display: inline-block; 
+	text-decoration: none;
+
+	&:hover {text-decoration: underline;}
+}
+body {padding-top: 30px;}
+#wrap {margin: 0 auto; width: 200px; font: 16px "fugueRegular", Arial;}
